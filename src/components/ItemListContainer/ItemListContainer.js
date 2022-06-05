@@ -13,7 +13,7 @@ useEffect(() => {
     
 }, [])
 
-const productsComponents = products.map(product => {return(<li key={product.id}> {product.name} </li>)})
+
 
 
 
